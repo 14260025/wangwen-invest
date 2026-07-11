@@ -21,10 +21,10 @@ wangwen-invest/
 
 ```bash
 # 终端 A / B / C ... 任选其一，克隆到 skills 目录
-git clone <本仓库地址> ~/.codebuddy/skills/wangwen-invest
+git clone https://github.com/14260025/wangwen-invest.git ~/.codebuddy/skills/wangwen-invest
 
 # 或若使用项目级 skills 目录
-git clone <本仓库地址> /你的项目/.codebuddy/skills/wangwen-invest
+git clone https://github.com/14260025/wangwen-invest.git /你的项目/.codebuddy/skills/wangwen-invest
 ```
 
 克隆后无需额外配置，对话中提及"用王文方法论分析XX""供求关系判断行业周期"等即会触发。
